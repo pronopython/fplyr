@@ -1,0 +1,14 @@
+root_dirs:
+  - '.'
+
+layers:
+  - layer: bg
+    busses: 1
+  - layer: quote
+    busses: 1
+    waittime_min_sec: 10
+    waittime_max_sec: 15
+    random_pan: True
+  - layer: moan
+    busses: 2
+    random_pan: True
