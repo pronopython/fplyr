@@ -5,9 +5,9 @@ Fplyr is a background audio sample and music player specialized in playing moani
 
 *Safe for Work* Example which includes *goat sounds* instead of female moans:
 
+https://github.com/pronopython/fplyr/assets/108393305/b85f5101-a5ba-4901-ae20-6c5873531396
+
 ![](img/safe-for-work-example-with-goats.mp4)
-
-
 
 With fplyr you can define audio samples like lustful moans and (if you like) rubber clothing squeeching which are extracted from your video files and played back in a defined random fashion on multiple audio tracks while you have your hands free to do other things!
 
